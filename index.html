@@ -5,11 +5,16 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
 
     <title>Javascript Masters</title>
 
     <style>
+      
+      ol li {
+        margin: 100px;
+      }
+      
       .logo {
         display: inline-block;
         background-color: #F0DB4F;
@@ -18,9 +23,11 @@
         color: #323330;
         position: relative;
         cursor: pointer;
+        padding-left: 57px;
+        font-size: 20px;
       }
       
-      .logo .logo-yinyang:before {
+      .logo:before {
         transition: all 1s;
         content: '';
         background: url(http://uxrepo.com/static/icon-sets/religious-symbols/svg/yin-yang.svg);
@@ -33,27 +40,36 @@
         left: 14px;
       }
       
-      .logo:hover .logo-yinyang:before {
+      .logo:hover:before {
         transform: rotate(1080deg);
       }
-      
-      .logo .logo-text {
-        display: inline-block;
-        margin-left: 40px;
-        font-size: 20px;
-        vertical-align: middle;
-      }
-      
+            
       .font-roboto-condensed {
         font-family: 'Roboto Condensed';
         font-weight: 300;
+        letter-spacing: -0.7px;
+      }
+            
+      .font-roboto-condensed-normal {
+        font-family: 'Roboto Condensed';
+        font-weight: 400;
+        letter-spacing: -0.7px;
+      }
+            
+      .font-roboto-condensed-bold {
+        font-family: 'Roboto Condensed';
+        font-weight: 700;
+        letter-spacing: -0.5px;
       }
     </style>
 
   </head>
 
   <body>
-    <div class="logo font-roboto-condensed"><div class="logo-yinyang"></div><div class="logo-text">Javascript Masters</div>
-    </div>
+    <ol>
+      <li><div class="logo font-roboto-condensed">Javascript Masters</div></li>
+      <li><div class="logo font-roboto-condensed-normal">Javascript Masters</div></li>
+      <li><div class="logo font-roboto-condensed-bold">Javascript Masters</div></li>
+    </ol>
   </body>
 </html>
