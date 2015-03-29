@@ -31,6 +31,10 @@
         margin: 100px 50px;
       }
       
+      .margin-left {
+        margin-left: 100px;
+      }
+      
       .logo {
         display: inline-block;
         background-color: #F0DB4F;
@@ -44,6 +48,7 @@
         white-space: nowrap;
         -webkit-font-smoothing: antialiased;
         font-smoothing: antialiased;
+        vertical-align: middle;
       }
       
       .logo:before {
@@ -63,6 +68,24 @@
       .logo:hover:before {
         transform: rotateX(180deg) rotateZ(1080deg);
       }
+      
+      
+      .logo-contracted {
+        color: transparent;
+        transition: all 0.5s;
+        padding: 19px;
+        width: 23px;
+        overflow: hidden;
+        vertical-align: middle;
+      }
+      
+      .logo-contracted:hover {
+        color: #323330;
+        padding-left: 54px;
+        width: 140px;
+        overflow: hidden;
+      }
+      
             
       .font-roboto-condensed {
         font-family: 'Roboto Condensed';
@@ -316,43 +339,47 @@
     </ol>
   
     <ol class="hide-number">
-      <li id="02"><div class="logo font-roboto-condensed-normal">JS</div></li>
-      <li id="09"><div class="logo font-lato-normal">JS</div></li>
-      <li id="10"><div class="logo font-lato-bold">JS</div></li>
-      <li id="13"><div class="logo font-source-sans-pro-semi-bold">JS</div></li>
-      <li id="14"><div class="logo font-source-sans-pro-bold">JS</div></li>
-      <li id="20"><div class="logo font-noto-sans-normal">JS</div></li>
-      <li id="23"><div class="logo font-pt-sans-bold">JS</div></li>
-      <li id="31"><div class="logo font-hind-normal">JS</div></li>
-      <li id="32"><div class="logo font-hind-medium">JS</div></li>
+      <li class="02">
+        <div class="logo font-roboto-condensed-normal">JS</div>
+        <div class="logo logo-contracted margin-left font-roboto-condensed-normal">Javascript Masters</div>
+        <span style="margin-left: 10px" class="font-hind-normal">Passa o mouse</span>
+      </li>
+      <li class="09"><div class="logo font-lato-normal">JS</div></li>
+      <li class="10"><div class="logo font-lato-bold">JS</div></li>
+      <li class="13"><div class="logo font-source-sans-pro-semi-bold">JS</div></li>
+      <li class="14"><div class="logo font-source-sans-pro-bold">JS</div></li>
+      <li class="20"><div class="logo font-noto-sans-normal">JS</div></li>
+      <li class="23"><div class="logo font-pt-sans-bold">JS</div></li>
+      <li class="31"><div class="logo font-hind-normal">JS</div></li>
+      <li class="32"><div class="logo font-hind-medium">JS</div></li>
     </ol>
   
     <ol style="display: none;">
-      <li id="01"><div class="logo font-roboto-condensed">Javascript Masters</div></li>
-      <li id="03"><div class="logo font-roboto-condensed-bold">Javascript Masters</div></li>
-      <li id="04"><div class="logo font-open-sans">Javascript Masters</div></li>
-      <li id="05"><div class="logo font-open-sans-normal">Javascript Masters</div></li>
-      <li id="06"><div class="logo font-open-sans-semi-bold">Javascript Masters</div></li>
-      <li id="07"><div class="logo font-open-sans-bold">Javascript Masters</div></li>
-      <li id="08"><div class="logo font-lato">Javascript Masters</div></li>
-      <li id="11"><div class="logo font-source-sans-pro">Javascript Masters</div></li>
-      <li id="12"><div class="logo font-source-sans-pro-normal">Javascript Masters</div></li>
-      <li id="15"><div class="logo font-questrial-normal">Javascript Masters</div></li>
-      <li id="16"><div class="logo font-dosis">Javascript Masters</div></li>
-      <li id="17"><div class="logo font-dosis-normal">Javascript Masters</div></li>
-      <li id="18"><div class="logo font-dosis-medium">Javascript Masters</div></li>
-      <li id="19"><div class="logo font-dosis-bold">Javascript Masters</div></li>
-      <li id="21"><div class="logo font-noto-sans-bold">Javascript Masters</div></li>
-      <li id="22"><div class="logo font-pt-sans-normal">Javascript Masters</div></li>
-      <li id="24"><div class="logo font-cabin-condensed-normal">Javascript Masters</div></li>
-      <li id="25"><div class="logo font-cabin-condensed-medium">Javascript Masters</div></li>
-      <li id="26"><div class="logo font-cabin-condensed-bold">Javascript Masters</div></li>
-      <li id="27"><div class="logo font-merriweather">Javascript Masters</div></li>
-      <li id="28"><div class="logo font-merriweather-normal">Javascript Masters</div></li>
-      <li id="29"><div class="logo font-merriweather-bold">Javascript Masters</div></li>
-      <li id="30"><div class="logo font-hind">Javascript Masters</div></li>
-      <li id="33"><div class="logo font-hind-bold">Javascript Masters</div></li>
-      <li id="34"><div class="logo font-slabo-27-normal">Javascript Masters</div></li>
+      <li class="01"><div class="logo font-roboto-condensed">Javascript Masters</div></li>
+      <li class="03"><div class="logo font-roboto-condensed-bold">Javascript Masters</div></li>
+      <li class="04"><div class="logo font-open-sans">Javascript Masters</div></li>
+      <li class="05"><div class="logo font-open-sans-normal">Javascript Masters</div></li>
+      <li class="06"><div class="logo font-open-sans-semi-bold">Javascript Masters</div></li>
+      <li class="07"><div class="logo font-open-sans-bold">Javascript Masters</div></li>
+      <li class="08"><div class="logo font-lato">Javascript Masters</div></li>
+      <li class="11"><div class="logo font-source-sans-pro">Javascript Masters</div></li>
+      <li class="12"><div class="logo font-source-sans-pro-normal">Javascript Masters</div></li>
+      <li class="15"><div class="logo font-questrial-normal">Javascript Masters</div></li>
+      <li class="16"><div class="logo font-dosis">Javascript Masters</div></li>
+      <li class="17"><div class="logo font-dosis-normal">Javascript Masters</div></li>
+      <li class="18"><div class="logo font-dosis-medium">Javascript Masters</div></li>
+      <li class="19"><div class="logo font-dosis-bold">Javascript Masters</div></li>
+      <li class="21"><div class="logo font-noto-sans-bold">Javascript Masters</div></li>
+      <li class="22"><div class="logo font-pt-sans-normal">Javascript Masters</div></li>
+      <li class="24"><div class="logo font-cabin-condensed-normal">Javascript Masters</div></li>
+      <li class="25"><div class="logo font-cabin-condensed-medium">Javascript Masters</div></li>
+      <li class="26"><div class="logo font-cabin-condensed-bold">Javascript Masters</div></li>
+      <li class="27"><div class="logo font-merriweather">Javascript Masters</div></li>
+      <li class="28"><div class="logo font-merriweather-normal">Javascript Masters</div></li>
+      <li class="29"><div class="logo font-merriweather-bold">Javascript Masters</div></li>
+      <li class="30"><div class="logo font-hind">Javascript Masters</div></li>
+      <li class="33"><div class="logo font-hind-bold">Javascript Masters</div></li>
+      <li class="34"><div class="logo font-slabo-27-normal">Javascript Masters</div></li>
     </ol>
   </body>
 </html>
