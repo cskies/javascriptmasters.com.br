@@ -37,43 +37,48 @@
       
       .logo {
         display: inline-block;
-        background-color: #F0DB4F;
-        padding: 19px;
-        border-radius: 10000px;
-        color: #323330;
         position: relative;
         cursor: pointer;
-        padding-left: 54px;
-        font-size: 20px;
-        white-space: nowrap;
-        -webkit-font-smoothing: antialiased;
-        font-smoothing: antialiased;
         vertical-align: middle;
+        
+        font-family: 'Hind';
+        font-weight: 400;
+        font-smoothing: antialiased;
+        font-size: 20px;
+        -webkit-font-smoothing: antialiased;
+        letter-spacing: -0.7px;
+        line-height: 20px;
+        white-space: nowrap;
+        
+        background-color: #F0DB4F;
+        color: #323330;
+        
+        padding: 24px 21px 21px 58px;
+        border-radius: 10000px;
       }
       
       .logo:before {
         transition: all 1s;
         content: '';
-        background: url(yin-yang.svg);
+        background: url(yin-yang-final.svg);
         background-size: cover;
-        width: 40px;
-        height: 40px;
+        width: 32px;
+        height: 32px;
         border-radius: 50%;
         position: absolute;
-        top: 17%;
-        left: 11px;
-        transform: rotateX(180deg) rotateZ(0deg);
+        top: 25%;
+        left: 16px;
       }
       
       .logo:hover:before {
-        transform: rotateX(180deg) rotateZ(1080deg);
+        transform: rotateZ(-1080deg);
       }
       
       
       .logo-contracted {
         color: transparent;
         transition: all 0.5s;
-        padding: 19px;
+        padding: 24px 21px 21px 21px;
         width: 23px;
         overflow: hidden;
         vertical-align: middle;
@@ -81,243 +86,10 @@
       
       .logo-contracted:hover {
         color: #323330;
-        padding-left: 54px;
-        width: 150px;
+        padding-left: 60px;
+        width: 144px;
         overflow: hidden;
       }
-      
-            
-      .font-roboto-condensed {
-        font-family: 'Roboto Condensed';
-        font-weight: 300;
-        letter-spacing: -0.7px;
-      }
-            
-      .font-roboto-condensed-normal {
-        font-family: 'Roboto Condensed';
-        font-weight: 400;
-        letter-spacing: -0.7px;
-      }
-            
-      .font-roboto-condensed-bold {
-        font-family: 'Roboto Condensed';
-        font-weight: 700;
-        letter-spacing: -0.5px;
-      }
-      
-            
-      .font-open-sans {
-        font-family: 'Open Sans';
-        font-weight: 300;
-        letter-spacing: -0.7px;
-      }
-            
-      .font-open-sans-normal {
-        font-family: 'Open Sans';
-        font-weight: 400;
-        letter-spacing: -0.7px;
-      }
-            
-      .font-open-sans-semi-bold {
-        font-family: 'Open Sans';
-        font-weight: 600;
-        letter-spacing: -0.5px;
-      }
-            
-      .font-open-sans-bold {
-        font-family: 'Open Sans';
-        font-weight: 700;
-        letter-spacing: -0.5px;
-      }
-      
-      
-      .font-lato {
-        font-family: 'Lato';
-        font-weight: 300;
-        letter-spacing: -0.5px;
-      }
-            
-      .font-lato-normal {
-        font-family: 'Lato';
-        font-weight: 400;
-        letter-spacing: -1px;
-      }
-            
-      .font-lato-bold {
-        font-family: 'Lato';
-        font-weight: 700;
-        letter-spacing: -0.4px;
-      }
-      
-      
-            
-      .font-source-sans-pro {
-        font-family: 'Source Sans Pro';
-        font-weight: 300;
-        letter-spacing: -0.7px;
-      }
-            
-      .font-source-sans-pro-normal {
-        font-family: 'Source Sans Pro';
-        font-weight: 400;
-        letter-spacing: -0.7px;
-      }
-            
-      .font-source-sans-pro-semi-bold {
-        font-family: 'Source Sans Pro';
-        font-weight: 600;
-        letter-spacing: -0.8px;
-      }
-            
-      .font-source-sans-pro-bold {
-        font-family: 'Source Sans Pro';
-        font-weight: 700;
-        letter-spacing: -0.5px;
-      }
-      
-            
-      
-      .font-questrial-normal {
-        font-family: 'Questrial';
-        font-weight: 400;
-      }
-      
-      
-      
-            
-      .font-dosis {
-        font-family: 'Dosis';
-        font-weight: 300;
-        letter-spacing: -0px;
-      }
-            
-      .font-dosis-normal {
-        font-family: 'Dosis';
-        font-weight: 400;
-        letter-spacing: -0.5px;
-      }
-            
-      .font-dosis-medium {
-        font-family: 'Dosis';
-        font-weight: 500;
-        letter-spacing: -0.5px;
-      }
-            
-      .font-dosis-bold {
-        font-family: 'Dosis';
-        font-weight: 700;
-        letter-spacing: -0.5px;
-      }
-      
-      
-            
-      .font-noto-sans-normal {
-        font-family: 'Noto Sans';
-        font-weight: 400;
-        letter-spacing: -1px;
-      }
-            
-      .font-noto-sans-bold {
-        font-family: 'Noto Sans';
-        font-weight: 700;
-        letter-spacing: -1px;
-      }
-      
-      
-            
-      .font-pt-sans-normal {
-        font-family: 'Pt Sans';
-        font-weight: 400;
-        letter-spacing: -01px;
-      }
-            
-      .font-pt-sans-bold {
-        font-family: 'Pt Sans';
-        font-weight: 700;
-        letter-spacing: -0.5px;
-      }
-      
-      
-      
-            
-
-      .font-cabin-condensed-normal {
-        font-family: 'Cabin Condensed';
-        font-weight: 400;
-      }
-            
-      .font-cabin-condensed-medium {
-        font-family: 'Cabin Condensed';
-        font-weight: 500;
-      }
-            
-      .font-cabin-condensed-bold {
-        font-family: 'Cabin Condensed';
-        font-weight: 700;
-      }
-
-      
-
-      .font-merriweather {
-        font-family: 'Merriweather';
-        font-weight: 300;
-        letter-spacing: -1px;
-      }
-
-      .font-merriweather-normal {
-        font-family: 'Merriweather';
-        font-weight: 400;
-        letter-spacing: -1px;
-      }
-            
-      .font-merriweather-bold {
-        font-family: 'Merriweather';
-        font-weight: 700;
-        letter-spacing: -0.7px;
-      }
-      
-      
-
-      .font-hind {
-        font-family: 'Hind';
-        font-weight: 300;
-        letter-spacing: -0.5px;
-        line-height: 18px;
-        padding-top: 24px
-      }
-
-      .font-hind-normal {
-        font-family: 'Hind';
-        font-weight: 400;
-        letter-spacing: -0.7px;
-        line-height: 20px;
-        padding-top: 24px
-      }
-            
-      .font-hind-medium {
-        font-family: 'Hind';
-        font-weight: 500;
-        letter-spacing: -1px;
-        line-height: 18px;
-        padding-top: 24px
-      }
-            
-      .font-hind-bold {
-        font-family: 'Hind';
-        font-weight: 700;
-        letter-spacing: -0.5px;
-        line-height: 18px;
-        padding-top: 24px
-      }
-      
-      
-
-      .font-slabo-27-normal {
-        font-family: 'Slabo 27px';
-        font-weight: 400;
-        letter-spacing: -0.5px;
-      }
-
       
       
     </style>
@@ -325,17 +97,27 @@
   </head>
 
   <body>
+
+<!--
+    <div style="left: 99px; top: 100px; width: 16px; height: 115px; opacity: 0.1; z-index: 999; position: absolute; background-color: #F00; "></div>
+    <div style="left: 145px; top: 100px; width: 16px; height: 115px; opacity: 0.1; z-index: 999; position: absolute; background-color: #F00; "></div>
+
+    <div style="left: 616px; top: 100px; width: 16px; height: 115px; opacity: 0.1; z-index: 999; position: absolute; background-color: #F00; "></div>
+    <div style="left: 663px; top: 100px; width: 16px; height: 115px; opacity: 0.1; z-index: 999; position: absolute; background-color: #F00; "></div>
+    
+    <div style="left: 0px; top: 124px; width: 1000px; height: 16px; opacity: 0.1; z-index: 999; position: absolute; background-color: #F00; "></div>
+    <div style="left: 0px; top: 172px; width: 1000px; height: 16px; opacity: 0.1; z-index: 999; position: absolute; background-color: #F00; "></div>
+    
+    <div style="left: 0px; top: 163px; width: 1000px; height: 1px; opacity: 0.2; z-index: 999; position: absolute; background-color: #F00; "></div>
+-->
+    
+    
     <ol>
-      <li class="02"><div class="logo font-source-sans-pro-semi-bold">Javascript Masters</div></li>
-      <li class="03"><div class="logo font-hind-normal">Javascript Masters</div></li>
+      <li class="02"><div class="logo font-hind-normal">Javascript Masters</div></li>
     </ol>
     
     <ol class="hide-numbers">
-      <li class="04">
-        <div class="logo font-source-sans-pro-semi-bold">JS</div>
-        <div class="logo logo-contracted font-source-sans-pro-semi-bold margin-left">Javascript Masters</div>
-      </li>
-      <li class="06">
+      <li class="02">
         <div class="logo font-hind-normal">JS</div>
         <div class="logo logo-contracted font-hind-normal margin-left">Javascript Masters</div>
       </li>
@@ -343,6 +125,13 @@
         
     
     <ol style="display: none;">
+      <li class="01"><div class="logo font-source-sans-pro-semi-bold">Javascript Masters</div></li>
+      
+      <li class="01">
+        <div class="logo font-source-sans-pro-semi-bold">JS</div>
+        <div class="logo logo-contracted font-source-sans-pro-semi-bold margin-left">Javascript Masters</div>
+      </li>
+      
       <li class="01"><div class="logo font-lato-normal">Javascript Masters</div></li>
       <li class="01">
         <div class="logo font-roboto-condensed-normal">Javascript Masters</div>
