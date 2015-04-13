@@ -1,0 +1,13 @@
+# Site settings
+title: Javascript Masters
+description: Para quem deseja entender que programação vai muito além de decorar syntaxe.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.javascriptmasters.com.br" # the base hostname & protocol for your site
+twitter_username: filipedeschamps
+github_username:  filipedeschamps
+
+# Build settings
+markdown: kramdown
+paginate: 1
+permalink: /blog/:categories/:title/
+paginate_path: /blog/pagina/:num/
