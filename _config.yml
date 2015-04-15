@@ -1,6 +1,6 @@
 # Site settings
 title: Javascript Masters
-description: Para quem deseja entender que programação vai muito além de decorar syntaxe.
+description: Programação vai muito além da sintaxe
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.javascriptmasters.com.br" # the base hostname & protocol for your site
 twitter_username: filipedeschamps
