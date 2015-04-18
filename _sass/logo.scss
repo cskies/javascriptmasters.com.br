@@ -13,8 +13,8 @@
   font-smoothing: antialiased;
   -webkit-font-smoothing: antialiased;
   white-space: nowrap;
-  background-color: #F0DB4F;
-  color: #323330;
+  background-color: $yellow-default;
+  color: $gray-dark;
   border-radius: 10000px;
 }
 
@@ -83,13 +83,13 @@
 
  .logo-big-icon {
    line-height: 0px;
-   min-width: 320px;
-   min-height: 320px;
+   min-width: 256px;
+   min-height: 256px;
  }
 
  .logo-big-icon:before {
-   width: 160px;
-   height: 160px;
+   width: 128px;
+   height: 128px;
    border-radius: 50%;
    top: 25%;
    left: 25%;

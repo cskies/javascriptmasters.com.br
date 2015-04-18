@@ -8,6 +8,6 @@ github_username:  filipedeschamps
 
 # Build settings
 markdown: kramdown
-paginate: 1
+paginate: 100
 permalink: /blog/:categories/:title/
 paginate_path: /blog/pagina/:num/
