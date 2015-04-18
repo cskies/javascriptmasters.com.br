@@ -15,7 +15,6 @@ $font-size-4: 50px;
   font-family: $font-merriweather;
 }
 
-
 .font-size-0 {
   font-size: $font-size-0;
 }
@@ -84,5 +83,12 @@ p {
   font-size: 18px;
   letter-spacing: -0.1px;
   line-height: 31px;
-  margin: 0 0 30px 0;
+  @extend .margin-top-0;
+  @extend .margin-right-0;
+  @extend .margin-bottom-3;
+  @extend .margin-left-0;
+}
+
+code {
+  font-size: inherit;
 }

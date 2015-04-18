@@ -1,0 +1,15 @@
+.post-meta {
+  @extend .font-open-sans;
+  @extend .font-size-0;
+  @extend .margin-bottom-3;
+}
+
+.post-width-50 {
+  margin-left: -25%;
+  margin-right: -25%;
+}
+
+.post-width-100 {
+  margin-left: -50%;
+  margin-right: -50%;
+}

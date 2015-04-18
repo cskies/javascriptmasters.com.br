@@ -48,14 +48,22 @@ img {
   width: 100px;
   margin: 40px auto 30px auto;
   border: 0;
-  border-top: 1px solid #CCC;
+  border-top: 1px solid $gray-light;
 }
 
-.divider-full-width {
+.divider-width-100 {
   @extend .divider;
   width: 100%;
 }
 
 .text-align-center {
   text-align: center;
+}
+
+.border-top-1 {
+  border-top: 1px solid $gray-light;
+}
+
+.border-bottom-1 {
+  border-bottom: 1px solid $gray-light;
 }
