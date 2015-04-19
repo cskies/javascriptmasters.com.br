@@ -4,12 +4,32 @@
   @extend .margin-bottom-3;
 }
 
-.post-width-50 {
+.post-overflow-50 {
   margin-left: -25%;
   margin-right: -25%;
 }
 
-.post-width-100 {
+.post-overflow-100 {
   margin-left: -50%;
   margin-right: -50%;
+}
+
+.post-impact-1 {
+  @extend .post-overflow-50;
+  @extend .margin-top-4;
+  @extend .margin-bottom-4;
+  text-align: center;
+}
+
+.post-impact-1 .title {
+  @extend .font-open-sans;
+  @extend .font-size-4;
+  @extend .font-weight-bold;
+  @extend .border-bottom-1;
+  @extend .padding-bottom-2;
+  @extend .margin-bottom-2;
+}
+
+.post-impact-1 p {
+  @extend .font-size-3;
 }
