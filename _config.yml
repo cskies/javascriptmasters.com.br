@@ -5,6 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.javascriptmasters.com.br" # the base hostname & protocol for your site
 twitter_username: filipedeschamps
 github_username:  filipedeschamps
+disqusid_shortname: javascriptmasters
 
 # Build settings
 markdown: kramdown
