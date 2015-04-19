@@ -11,7 +11,9 @@ author-url: https://www.filipedeschamps.com.br
       {% if page.author %}
         <a href="{{page.author-url}}">{{ page.author }}</a> •
       {% endif %}
-      
+
+      {{page.categories }} •
+
       {{ page.date | date: "%d/%m/%Y" }}
     </div>
   </header>
