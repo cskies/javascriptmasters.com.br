@@ -33,3 +33,30 @@
 .post-impact-1 p {
   @extend .font-size-3;
 }
+
+
+/*
+ * RESPONSIVE
+ */
+
+@media only screen and (max-width:767px) {
+
+  .post-overflow-50 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .post-overflow-100 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .post-impact-1 {
+    width: 100%;
+  }
+
+  .post-impact-1 img {
+    width: 100%;
+  }
+
+}

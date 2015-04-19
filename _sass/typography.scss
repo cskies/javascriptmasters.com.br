@@ -90,3 +90,36 @@ p {
 code {
   font-size: inherit;
 }
+
+
+
+
+/*
+ * RESPONSIVE
+ */
+
+@media only screen and (max-width:767px) {
+
+  .font-size-0 {
+    font-size: $font-size-0;
+  }
+
+  .font-size-1 {
+    font-size: $font-size-1;
+  }
+
+  .font-size-2 {
+    font-size: $font-size-2;
+  }
+
+  .font-size-3 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  .font-size-4 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+}
