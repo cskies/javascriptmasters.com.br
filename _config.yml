@@ -6,6 +6,7 @@ url: "https://www.javascriptmasters.com.br" # the base hostname & protocol for y
 twitter_username: filipedeschamps
 github_username:  filipedeschamps
 disqusid_shortname: javascriptmasters
+facebook_admins: 1437339431
 
 # Build settings
 markdown: kramdown
