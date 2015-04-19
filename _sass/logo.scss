@@ -1,0 +1,96 @@
+/*
+ * LOGO
+ * Estilização base do logo, sem as medidas.
+ */
+
+.logo {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  vertical-align: middle;
+  font-family: 'Hind';
+  font-weight: 400;
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  white-space: nowrap;
+  background-color: $yellow-default;
+  color: $gray-dark;
+  border-radius: 10000px;
+}
+
+.logo:before {
+  transition: all 1s;
+  content: '';
+  background: url(/images/yin-yang.svg);
+  background-size: cover;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.logo:hover:before {
+  -webkit-transform: rotateZ(-1080deg);
+  -moz-transform: rotateZ(-1080deg);
+  -ms-transform: rotateZ(-1080deg);
+  transform: rotateZ(-1080deg);
+}
+
+
+/*
+ * LOGO NORMAL FULL
+ * Versão do logo com ícone e texto de tamanho normal.
+ */
+
+ .logo-normal-full {
+   font-size: 20px;
+   letter-spacing: -0.7px;
+   line-height: 20px;
+   padding: 24px 21px 21px 58px;
+   border-radius: 10000px;
+ }
+
+ .logo-normal-full:before {
+   width: 32px;
+   height: 32px;
+   border-radius: 50%;
+   top: 25%;
+   left: 17px;
+ }
+
+
+/*
+ * LOGO ICON NORMAL
+ * Versão do logo apenas com o ícone de tamanho normal.
+ */
+
+ .logo-normal-icon {
+   line-height: 0px;
+   min-width: 64px;
+   min-height: 64px;
+ }
+
+ .logo-normal-icon:before {
+   width: 32px;
+   height: 32px;
+   border-radius: 50%;
+   top: 25%;
+   left: 25%;
+ }
+
+/*
+ * LOGO ICON BIG
+ * Versão do logo apenas com o ícone de tamanho grande.
+ */
+
+ .logo-big-icon {
+   line-height: 0px;
+   min-width: 256px;
+   min-height: 256px;
+ }
+
+ .logo-big-icon:before {
+   width: 128px;
+   height: 128px;
+   border-radius: 50%;
+   top: 25%;
+   left: 25%;
+ }

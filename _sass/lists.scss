@@ -1,0 +1,25 @@
+ul li,
+ol li {
+  margin-bottom: 30px;
+}
+
+.list-style-type-none {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.posts-list {
+  @extend .list-style-type-none;
+}
+
+.posts-list-title {
+  @extend .font-open-sans;
+  @extend .font-size-2;
+  @extend .font-weight-bold;
+}
+
+.posts-list-date {
+  @extend .font-open-sans;
+  @extend .font-size-0;
+}

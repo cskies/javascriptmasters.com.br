@@ -1,0 +1,69 @@
+/**
+ * HTML TAGS
+ */
+
+* {
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-family: "Merriweather", serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: $gray-dark;
+}
+
+a,
+a:link,
+a:visited {
+  color: $yellow-dark;
+}
+
+
+strong {
+  font-weight: 700;
+}
+
+small {
+  font-size: 80%;
+}
+
+img {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+
+/**
+ * CUSTOM CLASSES
+ */
+
+.container {
+  max-width: 700px
+}
+
+.divider {
+  display: block;
+  width: 100px;
+  margin: 40px auto 30px auto;
+  border: 0;
+  border-top: 1px solid $gray-light;
+}
+
+.divider-width-100 {
+  @extend .divider;
+  width: 100%;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.border-top-1 {
+  border-top: 1px solid $gray-light;
+}
+
+.border-bottom-1 {
+  border-bottom: 1px solid $gray-light;
+}
