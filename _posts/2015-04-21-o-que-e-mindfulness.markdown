@@ -22,7 +22,7 @@ Sabe onde você já faz isto? **Na hora de debuggar um programa**. Quando você 
 
 ## É possível debuggar o cérebro?
 
-Sim e é neste ponto que as coisas começam a se tornar interessantes, pois podemos dividir a palavra mindfulness em duas sólidas categorias: **self-awareness** e **self-correction**. Elas se resumem a **entender a situação atual e então se corrigir**, repetidamente. Basicamente uma cópia do que é o profiling e debugging. Você de fato começa a entender os detalhes de implementação do seu cérebro e começa a notar como ele reaje a cada situação.
+Sim e é neste ponto que as coisas começam a se tornar interessantes, pois podemos dividir a palavra mindfulness em duas sólidas categorias: **self-awareness** e **self-regulation**. Elas se resumem a **entender a situação atual e então se corrigir**, repetidamente. Basicamente uma cópia do que é o profiling e debugging. Você de fato começa a entender os detalhes de implementação do seu cérebro e começa a notar como ele reaje a cada situação.
 
 
 ## Quais os resultados?
