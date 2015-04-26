@@ -8,7 +8,7 @@ categories: mindfulness
 Igor Minar, um dos principais desenvolvedores do AngularJS, **fez uma palestra sensacional** e que foi responsável por me convencer a experimentar o assunto **mindfulness** para valer.
 
 <div class="post-impact-1">
-  <img src="/images/posts/como-ter-superpoderes-na-programacao/igor-minar-super-power-managment-inicio.png" title="Igor Minar iniciando a palestra (Super)Power Management na ng-conf">
+  <img src="/images/posts/como-ter-superpoderes-na-programacao/igor-minar-super-power-managment-inicio.jpg" title="Igor Minar iniciando a palestra (Super)Power Management na ng-conf">
 </div>
 
 A palestra, intitulada **(Super)Power Management** foi completamente diferente de qualquer outra que já assisti no setor de desenvolvimento. Fora isto, dá para notar que foi feita de peito aberto, com carinho e **vontade genuína em querer passar adiante o conhecimento**, pois estava de fato trazendo benefícios reais e ajudando o Igor na sua missão de ter "superpoderes" na programação.
@@ -23,7 +23,7 @@ Igor começa refletindo se este tipo de palestra, em que ele irá falar sobre mi
 Dai eu me pergunto: se um cara do porte dele considera importante o assunto na nossa área, quem sou eu para negar pelo menos **experimentar** algo sobre isto?
 
 <div class="post-impact-1">
-  <img src="/images/posts/como-ter-superpoderes-na-programacao/igor-minar-super-power-managment-sera-que-serve.png">
+  <img src="/images/posts/como-ter-superpoderes-na-programacao/igor-minar-super-power-managment-sera-que-serve.jpg" title="Igor Minar na ng-conf refletindo se meditação cabe na engenharia de software">
 </div>
 
 
@@ -87,7 +87,7 @@ Igor explica que o nosso cérebro possui duas regiões que tomam decisões: a **
 Nos primórdios, a capacidade de conseguir ter raciocícios mais complexos e decisões mais elaboradas tinham menos valor do que conseguir fazer decisões rápidas e primatas, como por exemplo, decidir fugir ou encarar um predador que está correndo em sua direção e outras ameaças daquela época.
 
 <div class="post-impact-1">
-  <img src="/images/posts/como-ter-superpoderes-na-programacao/igor-minar-super-power-managment-explicando-cerebro.png">
+   <img src="/images/posts/como-ter-superpoderes-na-programacao/igor-minar-super-power-managment-explicando-cerebro.jpg" title="Igor Minar explicando que o cérebro possui duas regiões que tomam decisões: a Amígdala e o Córtex pré-frontal">
 </div>
 
 Hoje continuamos a ter ameaças **mas elas são diferentes**, explica Igor. Elas estão, por exemplo, no seu ambiente de trabalho, principalmente com colegas e seus conflitos de interesse. Ficar utilizando o seu cérebro primata nestas situações é ruim. Fora isto, o seu cérebro primata ficará atravessando a elaboração das suas idéias na maior parte das vezes.
@@ -101,7 +101,7 @@ Igor explica que um dos exercícios mais básicos da meditação é prestar aten
 Então ele pediu para sua audiência ficar durante **30 segundos** prestando atenção apenas na sua própria respiração e as sensações envolvidas neste processo.
 
 <div class="post-impact-1">
-  <img src="/images/posts/como-ter-superpoderes-na-programacao/igor-minar-super-power-managment-exercicio-respiracao.png">
+  <img src="/images/posts/como-ter-superpoderes-na-programacao/igor-minar-super-power-managment-exercicio-respiracao.jpg" title="Igor Minar fazendo exercício de respiração na ng-conf">
 </div>
 
 Ao final do exercício questionou a audiência: ***"Foi difícil? Pensamentos vieram na sua cabeça e você perdeu o foco?***
