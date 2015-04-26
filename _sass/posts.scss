@@ -43,24 +43,36 @@
  * RESPONSIVE
  */
 
-@media only screen and (max-width:767px) {
+
+@media only screen and (min-width:768px) and (max-width: 991px) {
 
   .post-overflow-50 {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: -4%;
+    margin-right: -4%;
   }
 
   .post-overflow-100 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .post-impact-1 {
-    width: 100%;
+    margin-left: -4%;
+    margin-right: -4%;
   }
 
   .post-impact-1 img {
     width: 100%;
+  }
+
+}
+
+
+@media only screen and (max-width:767px) {
+
+  .post-overflow-50 {
+    margin-left: -2%;
+    margin-right: -2%;
+  }
+
+  .post-overflow-100 {
+    margin-left: -2%;
+    margin-right: -2%;
   }
 
 }
