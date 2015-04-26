@@ -23,3 +23,7 @@ O **desequilíbrio** forma um perfil de desenvolvedor bastante problemático, pr
 Do outro lado da moeda, temos dois exemplos de soluções desenvolvidas por mestres: **jQuery**, criado pelo John Resig, que mesmo com um vasto conhecimento em Javascript, **conseguiu simplificar um problema monstruoso** com um programa que **qualquer pessoa conseguia entender** e contribuir com plugins. E um exemplo em especial para mim foi o trabalho do Guillermo Rauch, criador do **Socket.io**, que me possibilitou criar sites com atualizações em tempo-real que **eu mesmo desacreditava** que iria conseguir fazer.
 
 **Isto para mim é ser mestre.** É isto que eu quero me tornar e é isto que estou procurando trazer com o **Javascript Masters**. Se você também pensa assim, seja muito bem vindo amigo!
+
+## Qual o próximo passo?
+
+Se você também tem interesse, o próximo passo é entender <a href="/blog/mindfulness/o-que-e-mindfulness/">o que é mindfulness</a>, algo fantástico que está mudando a minha vida e de pessoas muito importantes em nosso mercado de desenvolvimento.
