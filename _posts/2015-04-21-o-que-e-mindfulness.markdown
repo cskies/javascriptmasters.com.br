@@ -24,6 +24,79 @@ Sabe onde você já faz isto? **Na hora de debuggar um programa**. Quando você 
 
 Sim e é neste ponto que as coisas começam a se tornar interessantes, pois podemos dividir a palavra mindfulness em duas sólidas categorias: **self-awareness** e **self-regulation**. Elas se resumem a **entender a situação atual e então se corrigir**, repetidamente. Basicamente uma cópia do que é o profiling e debugging. Você de fato começa a entender os detalhes de implementação do seu cérebro e começa a notar como ele reaje a cada situação.
 
+<div class="margin-top-4 margin-bottom-4">
+    <svg id="animation-r2d2" viewBox="0 0 670 240"></svg>
+
+    <script>
+        setTimeout(function() {
+            var animationR2d2Canvas = Snap("#animation-r2d2");
+            Snap.load("/images/galeria/r2d2.svg", function (fragment) {
+
+                var r2d2 = fragment.select("#r2d2");
+                var r2d2Head = fragment.select("#r2d2-head");
+                animationR2d2Canvas.append(r2d2);
+
+                // START
+                moveForward();
+
+                function jumpHead() {
+                    headDown();
+
+                    function headNormal() {
+                        r2d2Head.animate({
+                            transform: 'translate(0, 0)'
+                        }, 500, mina.elastic, headDown);
+                    }
+
+                    function headDown() {
+                        r2d2Head.animate({
+                            transform: 'translate(0, 5)'
+                        }, 500, mina.elastic, headNormal);
+                    }
+                }
+
+                function moveHeadImpact(callback) {
+                    headForward();
+
+                    function headNormal() {
+                        r2d2Head.animate({
+                            transform: 'translate(0, 0)'
+                        }, 500, mina.bounce, callback);
+                    }
+
+                    function headForward() {
+                        r2d2Head.animate({
+                            transform: 'translate(10, 0)'
+                        }, 100, mina.backout, headNormal);
+                    }
+                }
+
+                function moveForward() {
+                    r2d2.animate({transform: 'translate(484, 0) scale(1, 1)'}, 5000, mina.easeout, rotateBackwards);
+                }
+
+                function rotateBackwards() {
+                    moveHeadImpact(function() {
+                        r2d2.animate({transform: 'translate(660, 0) scale(-1, 1)'}, 700, mina.bounce, moveBackwards);
+                    });
+                }
+
+                function moveBackwards() {
+                    r2d2.animate({transform: 'translate(190, 0) scale(-1, 1)'}, 5000, mina.easeout, rotateForward);            
+                }
+
+                function rotateForward() {
+                    moveHeadImpact(function() {
+                        r2d2.animate({transform: 'translate(0, 0) scale(1, 1)'}, 700, mina.bounce, moveForward);
+                    });
+                }
+
+            });
+
+        }, 0);
+    </script>
+</div>
+
 
 ## Quais os resultados?
 
