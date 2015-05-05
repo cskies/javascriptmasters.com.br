@@ -26,7 +26,9 @@ Sim e é neste ponto que as coisas começam a se tornar interessantes, pois pode
 
 <div class="margin-top-4 margin-bottom-4">
     <svg id="animation-r2d2" viewBox="0 0 670 240"></svg>
-
+    <style type="text/css">
+        #animation-r2d2 #r2d2:hover { cursor: pointer; }
+    </style>
     <script>
         setTimeout(function() {
             var animationR2d2Canvas = Snap("#animation-r2d2");
@@ -39,13 +41,15 @@ Sim e é neste ponto que as coisas começam a se tornar interessantes, pois pode
                 // START
                 moveForward();
 
+                r2d2.click(jumpHead);
+
                 function jumpHead() {
                     headDown();
 
                     function headNormal() {
                         r2d2Head.animate({
                             transform: 'translate(0, 0)'
-                        }, 500, mina.elastic, headDown);
+                        }, 500, mina.elastic);
                     }
 
                     function headDown() {
