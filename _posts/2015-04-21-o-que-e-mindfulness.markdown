@@ -54,9 +54,10 @@ Sim e é neste ponto que as coisas começam a se tornar interessantes, pois pode
 
                     function headDown() {
                         r2d2Head.animate({
-                            transform: 'translate(0, 5)'
-                        }, 500, mina.elastic, headNormal);
+                            transform: 'translate(0, 7)'
+                        }, 250, mina.bounce, headNormal);
                     }
+
                 }
 
                 function moveHeadImpact(callback) {
