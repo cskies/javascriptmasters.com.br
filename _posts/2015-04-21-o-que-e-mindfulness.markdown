@@ -30,7 +30,7 @@ Sim e é neste ponto que as coisas começam a se tornar interessantes, pois pode
         #animation-r2d2 #r2d2:hover { cursor: pointer; }
     </style>
     <script>
-        setTimeout(function() {
+        document.addEventListener("DOMContentLoaded", function(event) { 
             var animationR2d2Canvas = Snap("#animation-r2d2");
             Snap.load("/images/galeria/r2d2.svg", function (fragment) {
 
@@ -97,7 +97,7 @@ Sim e é neste ponto que as coisas começam a se tornar interessantes, pois pode
 
             });
 
-        }, 0);
+        });
     </script>
 </div>
 
