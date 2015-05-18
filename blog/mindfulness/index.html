@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<ul class="posts-list">
+  {% for post in site.categories['mindfulness'] %}
+    <li>
+      <a class="posts-list-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <div class="posts-list-date">{{post.categories }} • {{ post.date | date: "%d/%m/%Y" }}</div>
+    </li>
+  {% endfor %}
+</ul>
