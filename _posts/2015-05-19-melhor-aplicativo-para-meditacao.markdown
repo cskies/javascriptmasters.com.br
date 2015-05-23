@@ -8,7 +8,7 @@ categories: mindfulness
 Eu simplesmente não poderia imaginar que apenas **10 minutos** do meu dia fazendo algo novo **mudaria minha vida**. Este algo novo é **meditação**, uma das melhores formas de atingir o <a href="/blog/mindfulness/o-que-e-mindfulness/">mindfulness</a>.
 
 <div class="post-impact-1">
-    <p>Meditação é colocar a sua mente na frente do espelho para se arrumar.</p>
+    <p>Meditação é colocar a sua mente em frente ao espelho para se arrumar.</p>
 </div>
 
 O assunto meditação sempre me atraiu, mas ao mesmo tempo **sempre tive resistência** em colocar algo em prática por achar que o aprendizado seria difícil, ou no mínimo um processo **desconfortável** quando feito sozinho.
