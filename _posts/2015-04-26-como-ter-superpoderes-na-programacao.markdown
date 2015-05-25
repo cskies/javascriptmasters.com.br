@@ -122,4 +122,6 @@ Ele explica que é uma questão simples: se você consegue se perceber, ter self
 
 ## Qual o próximo passo?
 
-O próximo passo é **muito interessante**, pois você pode treinar a sua mente para melhorar o self-awareness e self-regulation. São exercícios simples e que irão ocupar 10 minutos do seu dia. **Em um próximo post vou descrever minha experiência pessoal com eles.**
+O próximo passo é **muito interessante**, pois você pode treinar a sua mente para melhorar o self-awareness e self-regulation. São exercícios simples e que irão ocupar 10 minutos do seu dia.
+
+Escrevi sobre minha experiência pessoal no post <a href="/blog/mindfulness/melhor-aplicativo-para-meditacao/">Melhor aplicativo para meditação</a>, vale a pena conferir.
