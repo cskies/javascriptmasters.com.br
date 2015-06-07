@@ -8,13 +8,33 @@ author-url: https://www.filipedeschamps.com.br
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-meta">
-      {% if page.author %}
-        <a href="{{page.author-url}}">{{ page.author }}</a> •
+
+      {% if page.youtube_id %}
+
+        <div class="margin-right-1 display-inline-block">
+          <a href="https://www.youtube.com/watch?v={{page.youtube_id}}" target="_blank">
+            <img src="https://s.ytimg.com/yts/img/favicon_32-vfl8NGn4k.png" class="post-meta-icon">Veja o vídeo deste post
+          </a>
+        </div>
+
       {% endif %}
 
-      {{page.categories }} •
 
-      {{ page.date | date: "%d/%m/%Y" }}
+      {% if page.author %}
+        <div class="margin-right-1 display-inline-block">
+          • <a href="{{page.author-url}}" target="_blank">{{ page.author }}</a>
+        </div>
+      {% endif %}
+
+      <div class="margin-right-1 display-inline-block">
+        • <a href="/blog/{{page.categories }}/">{{page.categories }}</a>
+      </div>
+
+      <div class="margin-right-1 display-inline-block">
+        • {{ page.date | date: "%d/%m/%Y" }}
+      </div>
+
+
     </div>
 
   </header>
