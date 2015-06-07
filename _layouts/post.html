@@ -16,11 +16,25 @@ author-url: https://www.filipedeschamps.com.br
 
       {{ page.date | date: "%d/%m/%Y" }}
     </div>
+
   </header>
+
 
   <article class="post-content">
     {{ content }}
   </article>
+
+
+  {% if page.youtube_id %}
+
+    <h2>Ou veja o vídeo deste post :)</h2>
+
+    <div class="responsive-youtube margin-top-2 margin-bottom-4">
+      <iframe src='https://www.youtube.com/embed/{{page.youtube_id}}' frameborder='0' allowfullscreen></iframe>
+    </div>
+
+  {% endif %}
+
 
   <div class="post-comments">
     {% include post-comments.html %}
