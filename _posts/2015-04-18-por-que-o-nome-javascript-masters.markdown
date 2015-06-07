@@ -3,6 +3,7 @@ layout: post
 title: Por que o nome Javascript Masters?
 date: 2015-04-18 19:02:00
 categories: mindfulness
+youtube_id: GRxqdjNoOjc
 ---
 A sua definição de **mestre** é uma pessoa que sabe tudo sobre um assunto em específico, ou até tudo sobre tudo? Se for, engraçado, **pois a minha definição é completamente diferente**.
 
