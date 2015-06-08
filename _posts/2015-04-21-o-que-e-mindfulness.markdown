@@ -3,6 +3,7 @@ layout: post
 title: O que é mindfulness?
 date: 2015-04-21 10:43:00
 categories: mindfulness
+youtube_id: 4FOPV2BC-B0
 ---
 
 Recentemente eu descobri algo que teve um **enorme impacto positivo** na minha vida e ao mesmo tempo fiquei **assustado** em como é parecido com o que temos em tecnologia e desenvolvimento de software.
