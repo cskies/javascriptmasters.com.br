@@ -3,21 +3,39 @@ layout: base
 title: "Javascript Masters"
 ---
 
+<style type="text/css">
+  body {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/images/home-background.jpg');
+  }
+</style>
+
 <div class="container">
   <div class="row">
     <div class="col-xs-12 text-align-center">
 
-      <div class="margin-top-4">
-        <a href="/blog/">
-          <div class="logo logo-big-icon"></div>
-        </a>
+      {% include page-header-default.html %}
+
+      <div class="post">
+
+        <h3>{{ site.description }}</h3>
+
+        <div class="post-overflow-25 shadow-5">
+          <div class="responsive-youtube margin-top-2 margin-bottom-4">
+            <iframe src='https://www.youtube.com/embed/GRxqdjNoOjc' frameborder='0' allowfullscreen></iframe>
+          </div>
+        </div>
+
+        <div class="margin-top--3" style="height: 50px;">
+          <script src="https://apis.google.com/js/platform.js"></script>
+
+          <div class="g-ytsubscribe" data-channelid="UCU5JicSrEM5A63jkJ2QvGYw" data-layout="full" data-count="default"></div>
+        </div>
+
+
       </div>
-
-      <h3>{{ site.description }}</h3>
-
-      <a href="/blog/mindfulness/por-que-o-nome-javascript-masters/"><strong>Por que o nome Javascript Masters?</strong></a>
-
-      <div class="divider"></div>
 
     </div>
   </div>

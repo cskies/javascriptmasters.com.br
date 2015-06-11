@@ -91,3 +91,8 @@ img {
 .display-inline-block {
   display: inline-block;
 }
+
+.shadow-5 {
+  -webkit-box-shadow: 0 10px 40px 0 #808080;
+  box-shadow: 0 10px 40px 0 #808080;
+}
