@@ -3,6 +3,7 @@ layout: post
 title: Como ter superpoderes na programação
 date: 2015-04-26 13:02:00
 categories: mindfulness
+youtube_id: nEEUjIjK-bE
 ---
 
 Igor Minar, um dos principais desenvolvedores do AngularJS, **fez uma palestra sensacional** e que foi responsável por me convencer a experimentar o assunto **mindfulness** para valer.
