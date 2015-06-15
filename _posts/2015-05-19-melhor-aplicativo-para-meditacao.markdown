@@ -26,6 +26,23 @@ Eu preciso confessar algo para vocês: a execução do **app para mobile** deles
 Você inicia com **10 aulas gratuitas** onde cada aula possui **apenas 10 minutos**. Isto é mais do que o suficiente para você ver se é algo que irá lhe agradar e também já ver o efeito de largada.
 
 <div class="post-impact-1">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-4">
+                <img src="/images/posts/melhor-aplicativo-para-meditacao/headspace-iphone-app-01.png" title="Aplicativo para iPhone do Headspace" class="shadow-3">
+            </div>
+            <div class="col-xs-4">
+                <img src="/images/posts/melhor-aplicativo-para-meditacao/headspace-iphone-app-02.png" title="Aplicativo para iPhone do Headspace" class="shadow-3">
+            </div>
+            <div class="col-xs-4">
+                <img src="/images/posts/melhor-aplicativo-para-meditacao/headspace-iphone-app-03.png" title="Aplicativo para iPhone do Headspace" class="shadow-3">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="post-impact-1">
     <h2>Stress cada vez mais dormente</h2>
     <p>Na quarta aula, minha relação com o stress já tinha mudado completamente. Quando eu era alvejado com problemas, sentia que eles me atingiam com muito menos força.</p>
 </div>
