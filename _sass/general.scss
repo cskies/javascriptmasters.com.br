@@ -92,6 +92,12 @@ img {
   display: inline-block;
 }
 
+.shadow-3 {
+  -webkit-box-shadow: 0 7px 18px 0 #CFCFCF;
+  -moz-box-shadow: 0 7px 18px 0 #CFCFCF;
+  box-shadow: 0 7px 18px 0 #CFCFCF;
+}
+
 .shadow-5 {
   -webkit-box-shadow: 0 10px 40px 0 #808080;
   -moz-box-shadow: 0 10px 40px 0 #808080;
