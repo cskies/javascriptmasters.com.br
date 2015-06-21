@@ -55,10 +55,14 @@ Você não tem noção o quanto isto é **poderoso** até você transformar esta
     <img src="/images/posts/melhor-aplicativo-para-meditacao/headspace-exercicios-para-mente.jpg" title="Exercícios para a mente">
 </div>
 
-## Qual o próximo passo?
+## Download
 
-O próximo passo é você se dar o direito de **doar 10 minutos do seu dia para sua mente**. Baixe o aplicativo e faça as 10 primeiras aulas gratuitas.
+Agora é só questão de você se dar o direito de **doar 10 minutos do seu dia para sua mente**. Baixe o aplicativo e faça as 10 primeiras aulas gratuitas.
 
 * <a href="https://itunes.apple.com/app/headspace-on-the-go/id493145008" target="_blank">Download App Store</a>
 * <a href="https://play.google.com/store/apps/details?id=com.getsomeheadspace.android&hl" target="_blank">Download Google Play</a>
 * <a href="http://www.amazon.co.uk/gp/product/B00HCIW9XO?*Version*=1&*entries*=0" target="_blank">Download Amazon Appstore</a>
+
+## Qual o próximo passo?
+
+O próximo passo é muito importante para que o seu dia a dia fique mais leve. Então eu sugiro que você leia as <a href="/blog/mindfulness/3-dicas-para-tratamento-de-ansiedade/">3 dicas para tratamento de ansiedade</a> que facilitaram **muito** o meu desenvolvimento pessoal e **principalmente profissional**.
