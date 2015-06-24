@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 dicas para tratamento de ansiedade
+title: 3 dicas simples para tratamento de ansiedade
 date: 2015-06-20 15:20:00
 categories: mindfulness
 ---
