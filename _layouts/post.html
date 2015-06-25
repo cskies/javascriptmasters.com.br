@@ -9,17 +9,6 @@ author-url: https://www.filipedeschamps.com.br
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-meta">
 
-      {% if page.youtube_id %}
-
-        <div class="margin-right-1 display-inline-block">
-          <a href="https://www.youtube.com/watch?v={{page.youtube_id}}" target="_blank">
-            <img src="https://s.ytimg.com/yts/img/favicon_32-vfl8NGn4k.png" class="post-meta-icon">Veja o vídeo deste post
-          </a>
-        </div>
-
-      {% endif %}
-
-
       {% if page.author %}
         <div class="margin-right-1 display-inline-block">
           • <a href="{{page.author-url}}" target="_blank">{{ page.author }}</a>
@@ -40,20 +29,18 @@ author-url: https://www.filipedeschamps.com.br
   </header>
 
 
-  <article class="post-content">
-    {{ content }}
-  </article>
-
-
   {% if page.youtube_id %}
-
-    <h2>Ou veja o vídeo deste post :)</h2>
 
     <div class="responsive-youtube margin-top-2 margin-bottom-4">
       <iframe src='https://www.youtube.com/embed/{{page.youtube_id}}' frameborder='0' allowfullscreen></iframe>
     </div>
 
   {% endif %}
+
+
+  <article class="post-content">
+    {{ content }}
+  </article>
 
 
   <div class="post-comments">
