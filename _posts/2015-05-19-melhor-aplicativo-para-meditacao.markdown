@@ -3,6 +3,7 @@ layout: post
 title: Melhor aplicativo para meditação
 date: 2015-05-19 21:00:00
 categories: mindfulness
+youtube_id: 6I4CTnKWRtk
 ---
 
 Eu simplesmente não poderia imaginar que apenas **10 minutos** do meu dia fazendo algo novo **mudaria minha vida**. Este algo novo é **meditação**, uma das melhores formas de atingir o <a href="/blog/mindfulness/o-que-e-mindfulness/">mindfulness</a>.
