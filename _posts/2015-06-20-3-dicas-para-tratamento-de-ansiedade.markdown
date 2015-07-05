@@ -3,6 +3,7 @@ layout: post
 title: 3 dicas simples para tratamento de ansiedade
 date: 2015-06-20 15:20:00
 categories: mindfulness
+youtube_id: n9XX83Du8xo
 ---
 
 Meu objetivo com este post é passar 3 dicas para **controlar a ansiedade** que fizeram total diferença no meu dia a dia, **principalmente a última dica**. O bom é que nada do que eu irei passar é minha opinião, pois já faz parte da **ciência**.
