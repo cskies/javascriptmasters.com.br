@@ -77,4 +77,4 @@ Com isto, eu aprendi uma lição muito importante: se você quiser controlar a s
 
 A base para você voltar aos trilhos ou potencializar suas habilidades já está disponível para sua leitura. Caso não tenha lido os 4 primeiros posts da categoria mindfulness, <a href="/blog/mindfulness/">faça isso agora</a>.
 
-No próximo post vou escrever um pouco sobre o perfil de alguns desenvolvedores, é bem interessante.
+Feito isto, sugiro você ler um ótimo post chamado <a href="/blog/mindfulness/10-coisas-que-todo-desenvolvedor-babaca-fala/">10 coisas que todo desenvolvedor babaca fala</a>.
