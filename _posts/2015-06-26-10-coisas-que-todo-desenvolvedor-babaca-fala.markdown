@@ -3,6 +3,7 @@ layout: post
 title: 10 coisas que todo desenvolvedor babaca fala
 date: 2015-06-26 07:23:00
 categories: mindfulness
+youtube_id: oMvwcrPITHM
 ---
 
 Apesar do título super polêmico, estes 10 itens **não servem para ofender ninguém**. O objetivo é bater de frente com a imagem que temos de nós mesmos e revisar a nossa **conduta no dia a dia**.
