@@ -76,6 +76,47 @@
    left: 25%;
  }
 
+
+
+/*
+ * LOGO ICON NORMAL EXPAND
+ * Versão do logo apenas com o ícone de tamanho normal.
+ */
+
+  .logo-normal-icon-expand {
+    font-size: 20px;
+    letter-spacing: -0.7px;
+    line-height: 20px;
+    border-radius: 10000px;
+    padding: 24px 8px 21px 58px;
+    overflow: hidden;
+    width: 17px;
+    color: transparent;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    transition: all 0.5s;
+    text-indent: -10px;
+  }
+
+  .logo-normal-icon-expand:hover {
+    color: #000;
+    padding: 24px 21px 21px 58px;
+    width: 223px;
+    text-indent: 0px;
+  }
+
+  .logo-normal-icon-expand:before {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    top: 25%;
+    left: 17px;
+  }
+
+
+
+
 /*
  * LOGO ICON BIG
  * Versão do logo apenas com o ícone de tamanho grande.
