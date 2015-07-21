@@ -36,11 +36,11 @@
 
 
 /*
- * LOGO NORMAL FULL
- * Versão do logo com ícone e texto de tamanho normal.
+ * LOGO FULL MEDIUM
+ * Versão do logo com ícone e texto de tamanho médio.
  */
 
- .logo-normal-full {
+ .logo-full-medium {
    font-size: 20px;
    letter-spacing: -0.7px;
    line-height: 20px;
@@ -48,7 +48,7 @@
    border-radius: 10000px;
  }
 
- .logo-normal-full:before {
+ .logo-full-medium:before {
    width: 32px;
    height: 32px;
    border-radius: 50%;
@@ -58,17 +58,17 @@
 
 
 /*
- * LOGO ICON NORMAL
- * Versão do logo apenas com o ícone de tamanho normal.
+ * LOGO ICON MEDIUM
+ * Versão do logo apenas com o ícone de tamanho médio.
  */
 
- .logo-normal-icon {
+ .logo-icon-medium {
    line-height: 0px;
    min-width: 64px;
    min-height: 64px;
  }
 
- .logo-normal-icon:before {
+ .logo-icon-medium:before {
    width: 32px;
    height: 32px;
    border-radius: 50%;
@@ -76,18 +76,59 @@
    left: 25%;
  }
 
+
+
+/*
+ * LOGO ICON MEDIUM EXPAND
+ * Versão do logo apenas com o ícone de tamanho médio, mas que expande.
+ */
+
+  .logo-icon-medium-expand {
+    font-size: 20px;
+    letter-spacing: -0.7px;
+    line-height: 20px;
+    border-radius: 10000px;
+    padding: 24px 8px 21px 58px;
+    overflow: hidden;
+    width: 17px;
+    color: transparent;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    transition: all 0.5s;
+    text-indent: -10px;
+  }
+
+  .logo-icon-medium-expand:hover {
+    color: #000;
+    padding: 24px 21px 21px 58px;
+    width: 223px;
+    text-indent: 0px;
+  }
+
+  .logo-icon-medium-expand:before {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    top: 25%;
+    left: 17px;
+  }
+
+
+
+
 /*
  * LOGO ICON BIG
  * Versão do logo apenas com o ícone de tamanho grande.
  */
 
- .logo-big-icon {
+ .logo-icon-big {
    line-height: 0px;
    min-width: 256px;
    min-height: 256px;
  }
 
- .logo-big-icon:before {
+ .logo-icon-big:before {
    width: 128px;
    height: 128px;
    border-radius: 50%;
