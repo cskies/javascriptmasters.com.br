@@ -1,0 +1,38 @@
+.newsletter-modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.1);
+  z-index: 99999;
+  display: none;
+}
+.newsletter-modal:target {
+  display: block;
+}
+
+.newsletter-modal .newsletter-form {
+  width: 600px;
+  position: relative;
+  margin: 10% auto;
+  padding: 50px;
+  background-color: #FFF;
+}
+
+.newsletter-modal-label {
+  @extend .font-weight-bold;
+  display: block;
+}
+
+.newsletter-modal-input {
+  -webkit-appearance: none;
+  max-width: 100%;
+  background-color: #fff;
+  border: 2px solid $yellow-default;
+  border-radius: 4px;
+  display: inline-block;
+  padding: 11px;
+  vertical-align: middle;
+  width: 100%;
+}
