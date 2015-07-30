@@ -5,7 +5,7 @@ date: 2015-07-25 15:17:00
 categories: mindfulness
 ---
 
-A minha interpretação sobre um desenvolvedor sênior é **bastante diferente**  da maioria das pessoas, pois elas naturalmente seguem uma mesma filosofia e acabam **nutrindo sem perceber uma cultura que no futuro elas mesmo criticam**.
+A minha interpretação sobre um desenvolvedor sênior é **bastante diferente**  da maioria das pessoas, pois elas naturalmente seguem uma mesma filosofia e acabam **nutrindo, talvez sem perceber, uma cultura que no futuro elas mesmo criticam**.
 
 Eu não vou fazer isto e vou mudar este caminho natural, então queria deixar claro para todos que ser um desenvolvedor sênior:
 
