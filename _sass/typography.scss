@@ -17,6 +17,7 @@ $font-size-4: 50px;
 
 .font-size-0 {
   font-size: $font-size-0;
+  line-height: 18px;
 }
 
 .font-size-1 {
@@ -25,7 +26,7 @@ $font-size-4: 50px;
 
 .font-size-2 {
   font-size: $font-size-2;
-  line-height: 30px;
+  line-height: 31px;
 }
 
 .font-size-3 {
@@ -89,7 +90,7 @@ p {
   color: $gray-dark;
   font-size: inherit;
   letter-spacing: -0.1px;
-  line-height: 31px;
+  line-height: inherit;
   @extend .margin-top-0;
   @extend .margin-right-0;
   @extend .margin-bottom-3;
