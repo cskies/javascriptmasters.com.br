@@ -34,6 +34,7 @@ Não interprete isto como **mandamentos** mas, de todos os projetos que particip
 ## Qual o próximo passo?
 
 Assinar a nossa Newsletter para receber novos posts em primeira mão!
+
 <div class="margin-top--2">
   <a class="button button-border button-medium" href="#newsletter">
     Assine a newsletter
