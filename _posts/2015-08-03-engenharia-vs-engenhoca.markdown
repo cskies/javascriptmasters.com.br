@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Engenharia vs Engenhoca
-date: 2015-07-26 12:40:00
+date: 2015-08-03 08:41:00
 categories: mindfulness
 ---
 
