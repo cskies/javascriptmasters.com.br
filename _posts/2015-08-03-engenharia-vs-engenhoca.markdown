@@ -26,7 +26,7 @@ Então para antecipar este tipo de situação, juntei **seis sinais para atenç�
 2. A solução já nasce complexa e com recursos para atender **especulações** sobre requisitos futuros.
 3. A implementação deste novo recurso é **difícil de se explicar**.
 4. O desenvolvedor adquire conhecimentos através da prática, e **somente através prática**, sem estudar a teoria ou os princípios envolvidos.
-5. Existe um design patter **perfeito** para o problema a ser resolvido, mas não está sendo utilizado.
+5. Existe um design pattern **perfeito** para o problema a ser resolvido, mas não está sendo utilizado.
 6. Utiliza uma solução genérica como base para se criar, em um nível mais alto, uma solução específica para o problema, mas que é **irrefatorável**.
 
 Não interprete isto como **mandamentos** mas, de todos os projetos que participei e tiveram um tempo de vida interessante, posso **seguramente** falar que estes itens devem ser discutidos de peito aberto no início do projeto.
