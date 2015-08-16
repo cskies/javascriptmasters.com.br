@@ -27,4 +27,4 @@ Então, será que **você** fala algumas das coisas abaixo?
 
 ## Qual o próximo passo?
 
-O próximo passo é ler o artigo que vou escrever sobre **O que é ser um desenvolvedor sênior** na minha opinião. Quando terminar, publico aqui. Vamo lá!
+O próximo passo é ler o artigo chamado <a href="/blog/mindfulness/o-que-e-ser-um-desenvolvedor-senior/">O que é ser um desenvolvedor sênior</a>, pois tem mais coisas interessantes que precisamos revisar sobre nossa conduta.
