@@ -32,4 +32,4 @@ O resto será reflexo (e um excelente reflexo) das práticas acima.
 
 ## Qual o próximo passo?
 
-Aguardar eu publicar um interessantíssimo artigo chamado **Engenharia vs Engenhoca**.
+Ler o interessantíssimo artigo chamado <a href="/blog/mindfulness/engenharia-vs-engenhoca/">Engenharia vs Engenhoca</a>, pois você vai reconhecer muitas coisas :)
