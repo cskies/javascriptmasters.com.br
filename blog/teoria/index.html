@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<ul class="posts-list">
+  {% for page in site.categories['teoria'] %}
+    <li>
+      <a class="posts-list-title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      <div class="posts-list-date">
+        {% if page.youtube_id %}
+
+          <div class="margin-right-0 display-inline-block">
+            <a href="https://www.youtube.com/watch?v={{page.youtube_id}}" target="_blank" title="Veja o vídeo deste post">
+              <img src="https://s.ytimg.com/yts/img/favicon_32-vfl8NGn4k.png" class="post-meta-icon">
+            </a>
+          </div>
+
+        {% endif %}
+
+        • {{ page.categories }}
+        • {{ page.date | date: "%d/%m/%Y" }}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
