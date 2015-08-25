@@ -4,3 +4,6 @@ Quando o assunto é desenvolvimento de software, eu considero mestre alguém que
 
 ## Veja a explicação completa
 https://www.javascriptmasters.com.br/blog/mindfulness/por-que-o-nome-javascript-masters/
+
+## Open source
+Este blog é completamente open source, sinta-se livre em contribuir :)
