@@ -11,7 +11,7 @@ Assim como a categoria [Mindfulness](/blog/mindfulness/) é voltada para a **con
 
 Este é um tema **muito** importante para mim, pois grande parte da minha vida eu passei programando diretamente na prática e evitando a teoria do que eu estava fazendo. Claro que com isto eu acabava fazendo [engenhocas atrás de engenhocas](/blog/mindfulness/engenharia-vs-engenhoca/).
 
-Foi quando eu conheci o [David Lojudice](https://github.com/dalssoft) CTO da Scup e [Fabrício Ferrari](https://github.com/FabricioFFC) um dos fundadores da Vizir. Dois caras fantásticos que me mostraram:
+Foi quando eu conheci o [David Lojudice](https://twitter.com/dalssoft) CTO da Scup e [Fabrício Ferrari](https://twitter.com/fabricioffc) um dos fundadores da Vizir. Dois caras fantásticos que me mostraram:
 
 <div class="post-impact-1">
     <p>A enorme diferença entre um código ameba e um código estruturado.</p>
