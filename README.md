@@ -6,3 +6,6 @@ Quando o assunto é desenvolvimento de software, eu considero mestre alguém que
 
 #### Veja a explicação completa
 https://www.javascriptmasters.com.br/blog/mindfulness/por-que-o-nome-javascript-masters/
+
+#### Contribua com o blog
+https://github.com/filipedeschamps/javascriptmasters.com.br/tree/gh-pages
