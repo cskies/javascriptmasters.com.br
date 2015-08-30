@@ -114,3 +114,19 @@ img {
   -moz-box-shadow: 0 10px 40px 0 #808080;
   box-shadow: 0 10px 40px 0 #808080;
 }
+
+
+.github-badge .github-badge-description {
+	@extend .font-size-0;
+	@extend .font-open-sans;
+	vertical-align: middle;
+	color: $gray-dark;
+}
+
+.github-badge .github-badge-iframe {
+	@extend .margin-left-1;
+	@extend .margin-right-1;
+	vertical-align: middle;
+	width: 85px;
+	height: 20px;
+}
