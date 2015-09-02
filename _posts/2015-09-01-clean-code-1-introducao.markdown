@@ -35,7 +35,7 @@ A missão principal do livro é melhorar ainda mais o **estado da arte** no dese
 
 Um dos pontos que o livro bate é que **pequenos detalhes importam**, então não cabem pensamentos como *"ah esse detalhe X é bobeira"*... pois pode não ser. Talvez para projetos pequenos nada disto importa, mas quando o tempo passa e a complexidade aumenta é **notável** o reflexo negativo espalhado por todo o projeto causado pelo descuido inicial.
 
-Algo legal que está no prefácio escrito por **James O. Coplien** e que casa perfeitamente com os princípios defendidos por Robert C. Martin é que **80%** do que fazemos em desenvolvimento de software pode ser considerado como **reparo**. Então o que podemos fazer para facilitar esta situação? Eles trazem para a mesa uma filosofia japonesa para controle de qualidade chamada **Total Productive Maintenance**:
+Algo importante que está no prefácio escrito por **James O. Coplien** e que casa perfeitamente com os princípios defendidos por Robert C. Martin é que **80%** do que fazemos em desenvolvimento de software pode ser considerado como **reparo**. Então o que podemos fazer para facilitar esta situação? Eles trazem para a mesa uma filosofia japonesa para controle de qualidade chamada **Total Productive Maintenance**:
 
 <div class="post-impact-1">
     <p>O foco deste controle de qualidade está na <strong>manutenção</strong> e não na produção.</p>
@@ -47,7 +47,7 @@ Em detalhes, a filosofia é composta por 5 conceitos:
 
 1. **Ordenação:** nomear variáveis, funções e arquivos de forma apropriada para que você consiga encontrar o que está procurando.
 2. **Sistematizar:** cada coisa no seu lugar. Um pedaço de código deve estar onde você espera encontrá-lo, do contrário, mova ele para lá.
-3. **Limpeza:** mantenha o seu código limpo, como por exemplo, identação correta e remover blocos de código antigos que estão comentados.
+3. **Limpeza:** mantenha o seu código limpo, como por exemplo, indentação correta e remover blocos de código antigos que estão comentados.
 4. **Padronização:** todo mundo do time faz as coisas da mesma forma, no mesmo estilo.
 5. **Disciplina:** seja disciplinado, siga as regras e esteja aberto a mudanças pessoais para se adaptar ao que foi combinado.
 
