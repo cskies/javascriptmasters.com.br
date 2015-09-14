@@ -3,6 +3,7 @@ layout: post
 title: O que é ser um desenvolvedor sênior?
 date: 2015-07-25 15:17:00
 categories: mindfulness
+youtube_id: 2N_MUkK1QMc
 ---
 
 A minha interpretação sobre um desenvolvedor sênior é **bastante diferente**  da maioria das pessoas, pois elas naturalmente seguem uma mesma filosofia e acabam **nutrindo, talvez sem perceber, uma cultura que no futuro elas mesmo criticam**.
