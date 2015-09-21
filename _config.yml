@@ -13,3 +13,5 @@ markdown: kramdown
 paginate: 100
 permalink: /blog/:categories/:title/
 paginate_path: /blog/pagina/:num/
+sass:
+  style: compressed
