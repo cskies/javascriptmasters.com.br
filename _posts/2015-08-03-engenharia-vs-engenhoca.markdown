@@ -3,6 +3,7 @@ layout: post
 title: Engenharia vs Engenhoca
 date: 2015-08-03 08:41:00
 categories: mindfulness
+youtube_id: C0c_-xvG1HU
 ---
 
 Há uma enorme diferença entre engenharia e engenhoca e o problema é que você pode **não perceber a diferença no curto prazo**.
