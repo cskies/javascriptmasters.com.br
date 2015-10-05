@@ -3,6 +3,7 @@ layout: post
 title: "Nova categoria: Teoria"
 date: 2015-08-09 08:11:00
 categories: teoria
+youtube_id: QIRtgXFuQec
 ---
 
 Uma excelente novidade para o blog: **começa hoje uma nova categoria chamada Teoria!**
