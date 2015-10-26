@@ -3,6 +3,7 @@ layout: post
 title: "Clean Code: 1 Introdução"
 date: 2015-09-01 08:00:00
 categories: teoria
+youtube_id: "9w3o9NHXqu0"
 ---
 
 <div class="post-impact-1">
