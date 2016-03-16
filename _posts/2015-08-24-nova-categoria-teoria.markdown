@@ -34,9 +34,7 @@ O que acham?
 
 ## Qual o próximo passo?
 
-Aguardar o próximo post, pois já tenho um livro **excelente** no forno, vai ser show de bola!!!
-
-E enquanto isso, sugiro assinar a nossa Newsletter para receber novos posts em primeira mão :)
+Acessar o próximo artigo onde começamos a ler um dos mais importantes livros da história da programação: <a href="/blog/teoria/clean-code-1-introducao/">Clean Code: 1 Introdução</a>
 
 <div class="margin-top--2">
   <a class="button button-border button-medium" href="#newsletter">
