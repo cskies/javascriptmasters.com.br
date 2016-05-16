@@ -40,7 +40,7 @@ Novamente, se você já tem certo tempo na área, deve ter ouvido a história de
     <p><i>"Caramba, no começo tinha um só desenvolvedor e ele fazia tudo rápido, muito mais rápido que os 5 desenvolvedores juntos que temos agora."</i></p>
 </div>
 
-A expectativa de que algo pronto é mais rápido de se trabalhar (uma vez que tem várias coisas feitas) contra a velocidade de construir algo do zero é extremamente popular. O livro neste ponto chega a ser assuntador do quão casado é com a realidade, pois descreve a seguinte série de eventos para o caso acima:
+A expectativa de que algo pronto é mais rápido de se trabalhar (uma vez que tem várias coisas feitas) contra a velocidade de construir algo do zero é extremamente popular. O livro neste ponto chega a ser assustador do quão casado é com a realidade, pois descreve a seguinte série de eventos para o caso acima:
 
 1. Projeto começa com alta "produtividade".
 2. Depois de um tempo esta velocidade começa a cair.
