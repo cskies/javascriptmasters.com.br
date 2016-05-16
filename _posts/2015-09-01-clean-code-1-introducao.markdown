@@ -58,12 +58,4 @@ Este livro irá lhe ensinar o que você precisa aprender sobre a heurística da 
 
 ## Qual o próximo passo?
 
-Aguardar o próximo post, pois vamos entender em mais detalhes o que é um **código limpo**. O negócio vai começar a ficar massa!
-
-E enquanto isso, sugiro assinar a nossa Newsletter para receber novos posts em primeira mão :)
-
-<div class="margin-top--2">
-  <a class="button button-border button-medium" href="#newsletter">
-    Assine a newsletter
-  </a>
-</div>
+Acessar o próximo artigo onde vamos entender o que é um **código limpo** e **código sujo**: <a href="/blog/teoria/blog/teoria/clean-code-2-o-que-e-codigo-limpo/">Clean Code: 2 O que é código limpo?</a>
