@@ -3,6 +3,7 @@ layout: post
 title: "Clean Code: 2 O que é código limpo?"
 date: 2016-05-15 11:00:00
 categories: teoria
+youtube_id: "ZVtGbO_CnfA"
 ---
 
 <div class="post-impact-1">
