@@ -66,11 +66,12 @@
 }
 
 .highlight {
-  @extend .border-top-1;
-  @extend .border-bottom-1;
   @extend .margin-bottom-3;
-  @extend .padding-top-3;
-  @extend .padding-bottom-3;
+  @extend .padding-top-2;
+  @extend .padding-right-2;
+  @extend .padding-bottom-2;
+  @extend .padding-left-2;
+  @extend .shadow-3;
 }
 
 .highlight pre {
