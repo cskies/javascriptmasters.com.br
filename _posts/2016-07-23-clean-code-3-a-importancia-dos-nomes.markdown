@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clean Code: 3 A importância dos nomes"
-date: 2016-07-23 10:00:00
+date: 2016-07-28 21:00:00
 categories: teoria
 ---
 
