@@ -3,6 +3,7 @@ layout: post
 title: "Clean Code: 3 A importância dos nomes"
 date: 2016-07-28 21:00:00
 categories: teoria
+youtube_id: kw3H7nj9kc4
 ---
 
 <div class="post-impact-1">
